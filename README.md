@@ -1,4 +1,4 @@
-#  PSET 1; Primeiro Problem Set da disciplina Desin e Desenvolvimento de Banco de Dados, ministrada pelo professor Abrantes Araújo. 
+#  PSET 1; Primeiro Problem Set da disciplina Desin e Desenvolvimento de Banco de Dados, ministrada pelo professor Abrantes Araújo com monitoria de Suellen Miranda Amorim.
 
 ## Desenvolvido pela aluna _Isabela Carone_, na Universidade de Vila Velha. 
 

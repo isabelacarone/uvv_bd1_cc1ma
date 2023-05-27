@@ -357,6 +357,6 @@ CHECK (lojas.envios.status IN ('CRIADO','ENVIADO', 'TRANSITO', 'ENTREGUE'));
 
 ALTER TABLE lojas.lojas 
 ADD CONSTRAINT cc_enderco 
-CHECK (lojas.lojas.endereco_web IS NOT NULL OR lojas.lojas.endereco_fisico);
+CHECK (lojas.lojas.endereco_web IS NOT NULL OR lojas.lojas.endereco_fisico IS NOT NULL);
 
 

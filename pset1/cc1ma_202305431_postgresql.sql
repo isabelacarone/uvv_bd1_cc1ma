@@ -353,7 +353,7 @@ ADD CONSTRAINT cc_envios_status
 CHECK (lojas.envios.status IN ('CRIADO','ENVIADO', 'TRANSITO', 'ENTREGUE'));
 
 
--- Restrição ao endereco_web e endereco_fisico da tabela lojas, de modo que fique pelo menos um dos itens com informação; não podendo deixar o espaço de endereço nulo. -- 
+-- Restrição ao endereco_web e endereco_fisico da tabela lojas, de modo que fique pelo menos um dos itens com informação,não podendo deixar o espaço de endereço nulo. -- 
 
 ALTER TABLE lojas.lojas 
 ADD CONSTRAINT cc_enderco 

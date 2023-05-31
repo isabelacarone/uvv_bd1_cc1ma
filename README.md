@@ -27,7 +27,7 @@ Primeiramente li o documento de instruções do PSET 1 e pontuei os itens princi
 Após finalizar o diagrama coloquei o _"SCHEMA: uvv"_ e para ser adaptado _"PostgreSQL"_ a comecei a responder as questões que eram teóricas, e inciei a listagem dos erros que encontrei no diagrama. Depois joguei o código no _terminal_ do linux e fiz os ajustes pedidos e necessários. E, consecutivamente, respondi a questões restantes e salvei os arquivos com os nomes solicitado pelo professor. 
 
 ## Contato:
-_**Isabela Carone Lacerda 
-caroneisabela@gmail.com 
-CCM1a
-202305431**_
+_**Isabela Carone Lacerda**_ 
+_caroneisabela@gmail.com_ 
+_CCM1a_
+_202305431_

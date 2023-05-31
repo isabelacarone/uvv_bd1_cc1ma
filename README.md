@@ -11,7 +11,7 @@ em praticar a autonomia do aluno.
 - Uso da linguagem  Markdown, em geral, e sobre a versão
 GitHub Flavored Markdown;
 - Implementação de projetos lógicos de bancos de dados utilizando o PostgreSQL; 
-- Reflexõe sobre os diversos problemas que podem ocorrer se o
+- Reflexões sobre os diversos problemas que podem ocorrer se o
 projeto lógico está mal preparado; 
 - Estudo e aplicação do Structured Query Language (SQL) em nível
 básico e intermediário; 

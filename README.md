@@ -20,3 +20,14 @@ básico e intermediário;
 
 ### Nesse repositório contém: 
 Arquivo com o PDF e o código do diagrama relacional e, tambeém código em SQL. Já as questões respondidas serão entregues ao professor. 
+
+### Meus passos:
+
+Primeiramente li o documento de instruções do PSET 1 e pontuei os itens principais a serem feitos. Logo em seguida, iniciei meu diagrama relacional no SQL Power Architect, com seus devidos comentários, FKs e PFKs; e sempre conferindo com a imagem disponibilazada pelo professor. 
+Após finalizar o diagrama coloquei o _"SCHEMA: uvv"_ e para ser adaptado _"PostgreSQL"_ a comecei a responder as questões que eram teóricas, e inciei a listagem dos erros que encontrei no diagrama. Depois joguei o código no _terminal_ do linux e fiz os ajustes pedidos e necessários. E, consecutivamente, respondi a questões restantes e salvei os arquivos com os nomes solicitado pelo professor. 
+
+## Contato:
+_**Isabela Carone Lacerda 
+caroneisabela@gmail.com 
+CCM1a
+202305431**_

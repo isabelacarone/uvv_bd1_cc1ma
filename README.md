@@ -19,7 +19,7 @@ básico e intermediário;
 
 
 ### Nesse repositório contém: 
-Arquivo com o PDF e o código do diagrama relacional e, tambeém código em SQL. Já as questões respondidas serão entregues ao professor. 
+Arquivo com o PDF e o código do diagrama relacional e, também código em SQL. Já as questões respondidas serão entregues ao professor. 
 
 ### Meus passos:
 
